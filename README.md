@@ -4,4 +4,5 @@
 I used this script to make fstec recommendations for linux  
   
 # Run  
-bash script.sh  
+Run the following command:  
+_bash script.sh_  
